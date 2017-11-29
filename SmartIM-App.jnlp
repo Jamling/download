@@ -17,4 +17,7 @@
     <jar href="SmartIM-App.jar"/>
   </resources>
   <application-desc main-class="cn.ieclipse.smartim.Application"/>
+  <security>
+    <all-permissions/>
+ </security>
 </jnlp> 
